@@ -1,0 +1,21 @@
+{
+  "name": "curso-scope-closures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianGarcia19/curso-scope-closures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CristianGarcia19/curso-scope-closures/issues"
+  },
+  "homepage": "https://github.com/CristianGarcia19/curso-scope-closures#readme"
+}
